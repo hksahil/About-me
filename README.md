@@ -11,6 +11,11 @@
 
 [<img align="left" alt="Sahil | LinkedIn" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/quora-9-722735.png" />][quora]
 
+
+[<img align="left" alt="Sahil | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/New_Logo_Gmail.svg/1280px-New_Logo_Gmail.svg.png />][Gmail]
+
+
+
 <br />
 
 ### Languages and Tools:
@@ -28,6 +33,11 @@
 
 [<img align="left" alt="github" width="26px" src="https://pngimg.com/uploads/photoshop/photoshop_PNG59.png />]
 
+![Image of Yaktocat](https://pngimg.com/uploads/photoshop/photoshop_PNG59.png )
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 <br />
 <br />
 
@@ -42,3 +52,4 @@
 
 [linkedin]: https://www.linkedin.com/in/sahil-choudhary-258665125/
 [quora]: https://www.quora.com/profile/Sahil-Choudhary-64
+
