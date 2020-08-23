@@ -33,14 +33,13 @@
 <br />
 
 
-### I have worked with these Awesome Organizations:
+### I have worked with these awesome Organizations:
 
-<img align="left" alt="github" width="32px" src="https://crenshawcomm.com/wp-content/uploads/2018/01/TedX-e1589077100531.png" />
-<img align="left" alt="github" width="32px" src="https://halberdbastion.com/sites/default/files/2017-07/IEEE-Standards-Association-Logo.png" />
-<img align="left" alt="github" width="32px" src="https://www.thestatesman.com/wp-content/uploads/2018/07/BSNL.jpg" />
-<img align="left" alt="github" width="32px" src="https://pbs.twimg.com/profile_images/767984729685655552/H853fm7C.jpg" />
-<img align="left" alt="github" width="32px" src="https://pbs.twimg.com/profile_images/621906188574154752/9xlhbj8T_400x400.jpg
-" />
+<img align="left" alt="github" width="52px" src="https://crenshawcomm.com/wp-content/uploads/2018/01/TedX-e1589077100531.png" />
+<img align="left" alt="github" width="52px" src="https://halberdbastion.com/sites/default/files/2017-07/IEEE-Standards-Association-Logo.png" />
+<img align="left" alt="github" width="52px" src="https://www.thestatesman.com/wp-content/uploads/2018/07/BSNL.jpg" />
+<img align="left" alt="github" width="52px" src="https://pbs.twimg.com/profile_images/767984729685655552/H853fm7C.jpg" />
+<img align="left" alt="github" width="52px" src="https://pbs.twimg.com/profile_images/621906188574154752/9xlhbj8T_400x400.jpg" />
 
 <br/>
 <br/>
