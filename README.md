@@ -1,6 +1,6 @@
 ### Hi there, I'm Sahil Choudhary 👋
 
-<img align="left" alt="Sahil | LinkedIn" width="22px" src="a.jpg" />
+<img align="left" alt="Sahil | LinkedIn"  src="a.jpg" />
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with awesome developers and team
