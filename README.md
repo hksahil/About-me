@@ -1,7 +1,7 @@
 ### Hi there, I'm Sahil Choudhary 👋
 
 <img  alt="Sahil | LinkedIn"  src="a.jpg" />
-<br/>
+
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with awesome developers and team
