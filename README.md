@@ -46,7 +46,8 @@
 <!-- BLOG-POST-LIST:START -->
 
 - [What happens when you click on a link in your Browser?](https://medium.com/@officialhksahil/what-happens-when-you-click-a-link-in-your-browser-c651f4890d29)
-
+- [Must have tools for < Front-end web developers/ >](https://medium.com/@officialhksahil/must-have-tools-for-front-end-web-developers-a3388419e5a7)
+- [How to use Social media(the good way)?](https://medium.com/@officialhksahil/how-to-use-social-media-the-good-way-745357d0d44c)
 - [My journey from 2 Lakh answer views to 1 k views that too in 3 days](https://qr.ae/pN2war)
 <!-- BLOG-POST-LIST:END -->
 
